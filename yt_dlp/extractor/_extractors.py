@@ -541,7 +541,8 @@ from .eighttracks import EightTracksIE
 from .einthusan import EinthusanIE
 from .eitb import EitbIE
 from .elemental_tv import ElementalTVIE
-from .elevensports import ElevenSportsIE
+# Removed import for non-existent module
+# from .elevensports import ElevenSportsIE
 from .ellentube import (
     EllenTubeIE,
     EllenTubeVideoIE,
